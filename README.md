@@ -5,10 +5,10 @@
 ## Lab 1
 
 ### App Description
-`TODO://` This is an Android app written in Java that asks a flashcard question and displays the answer when the flashcard question is tapped.
+This is an Android app written in Java that asks a flashcard question and displays the answer when the flashcard question is tapped.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+Below is a walk-through demo of the application.
 
 <img src="https://media.giphy.com/media/8RXQ7fi3UYCBT9OllK/giphy.gif" width=200><br>
 
