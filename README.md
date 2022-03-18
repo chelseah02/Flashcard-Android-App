@@ -8,7 +8,7 @@ This is a flashcard android app that lets you add a new flashcard to replace the
 ### App Walk-though
 This is a gif-walkthrough of adding and saving a new flashcard to the app.
 
-<img src="https://media.giphy.com/media/furkuqtaGivHCyxCoq/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/ke00c8ZJ0pmmUO8XDR/giphy.gif" width=200><br>
 
 This is a gif-walkthrough of adding and cancelling a new flashcard to the app.
 
