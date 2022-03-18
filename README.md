@@ -6,9 +6,13 @@
 This is a flashcard android app that lets you add a new flashcard to replace the existing card.
 
 ### App Walk-though
-This is a gif-walkthrough of my Android flashcard app after Lab 2
+This is a gif-walkthrough of adding and saving a new flashcard to the app.
 
 <img src="https://media.giphy.com/media/furkuqtaGivHCyxCoq/giphy.gif" width=200><br>
+
+This is a gif-walkthrough of adding and cancelling a new flashcard to the app.
+
+<img src="https://media.giphy.com/media/NIglfWBSB8tVBWjcqy/giphy.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
