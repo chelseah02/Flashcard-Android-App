@@ -18,9 +18,19 @@
         android:id="@+id/flashcard_answer"
         android:layout_width="match_parent"
         android:layout_height="200dp"
+        android:layout_below="@id/flashcard_question"
+        android:layout_marginTop="-199dp"
+        android:gravity="center"
         android:text="Barack Obama"
         android:textSize="40sp"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/card_plus_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/flashcard_answer"
+        android:layout_marginTop="375dp"
         android:gravity="center"
-        android:layout_below="@id/flashcard_question"
-        android:visibility="invisible"/>
+        android:src="@drawable/icon_plus" />
 </RelativeLayout>
