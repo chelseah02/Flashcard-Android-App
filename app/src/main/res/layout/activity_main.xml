@@ -26,6 +26,15 @@
         android:visibility="invisible" />
 
     <ImageView
+        android:id="@+id/card_next_btn"
+        android:layout_width="80dp"
+        android:layout_height="61dp"
+        android:layout_below="@id/flashcard_answer"
+        android:layout_marginTop="31dp"
+        android:gravity="center"
+        android:src="@drawable/icon_next" />
+
+    <ImageView
         android:id="@+id/card_plus_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
