@@ -1,4 +1,45 @@
 ## Flashcard-Android-App
+## Lab 4
+
+### App Description
+The Flashcard app now has animations implemented! For example, users will see a transition animation when going from the main to add card screen, a reveal
+animation when an answer is revealed, and a shift transition when the next button is tapped.
+
+### App Walk-though
+
+<img src="https://media.giphy.com/media/ngOqPqBJZUY4H3mBbr/giphy.gif" width=200><br>
+
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
+## Required
+- [X] User sees a transition animation when going from the main screen to the add card screen.
+- [X] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [X] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [ ] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
+
+## Lab 3
+
+### App Description
+The Flashcard app can now save several cards with a next button navigating through the entered flashcards.
+
+### App Walk-though
+
+<img src="https://media.giphy.com/media/THh3h2DjHqqSGQQxi5/giphy.gif" width=200><br>
+
+## Required
+- [X] User can create a card and still see their created card when the app is relaunched.
+- [X] User can create muliple cards and browse through all created cards
+
+## Optional
+- [ ] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
 
 ## Lab 2
 
@@ -13,8 +54,6 @@ This is a gif-walkthrough of adding and saving a new flashcard to the app.
 This is a gif-walkthrough of adding and cancelling a new flashcard to the app.
 
 <img src="https://media.giphy.com/media/NIglfWBSB8tVBWjcqy/giphy.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
@@ -39,8 +78,6 @@ This is an Android app written in Java that asks a flashcard question and displa
 Below is a walk-through demo of the application.
 
 <img src="https://media.giphy.com/media/8RXQ7fi3UYCBT9OllK/giphy.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [X] Create New Project in Android Studio
