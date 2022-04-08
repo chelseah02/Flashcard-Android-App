@@ -1,4 +1,27 @@
 ## Flashcard-Android-App
+## Lab 4
+
+### App Description
+The Flashcard app now has animations implemented! For example, users will see a transition animation when going from the main to add card screen, a reveal
+animation when an answer is revealed, and a shift transition when the next button is tapped.
+
+### App Walk-though
+
+<img src="https://media.giphy.com/media/ngOqPqBJZUY4H3mBbr/giphy.gif" width=200><br>
+
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
+## Required
+- [X] User sees a transition animation when going from the main screen to the add card screen.
+- [X] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [X] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [ ] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
+
 ## Lab 3
 
 ### App Description
