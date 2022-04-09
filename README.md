@@ -8,6 +8,7 @@ animation when an answer is revealed, and a shift transition when the next butto
 ### App Walk-though
 
 <img src="https://media.giphy.com/media/ngOqPqBJZUY4H3mBbr/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/owYUHv85xu2N10BqSp/giphy.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
